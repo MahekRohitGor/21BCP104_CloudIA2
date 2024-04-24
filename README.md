@@ -74,8 +74,8 @@ Once the changes are made, build the Docker image using the provided Dockerfile 
 ![image](https://github.com/MahekRohitGor/21BCP104_CloudIA2/assets/101034649/d7bf393e-a8d3-4410-9904-3c35f74a507a)
 ![image](https://github.com/MahekRohitGor/21BCP104_CloudIA2/assets/101034649/0df89e9d-d3c3-4e66-9c8f-4b1118918d85)
 ![image](https://github.com/MahekRohitGor/21BCP104_CloudIA2/assets/101034649/5768a8d5-5fcf-4601-a9fc-4df50f411acc)
-![image](https://github.com/MahekRohitGor/21BCP104_CloudIA2/assets/101034649/72aa425f-a5c0-4f92-acf4-a909c57b89ba)
+
 
 Upon successful execution, you can access the website at http://localhost:3000 and interact with it. <br>
 
-![img21](../assets/lib/image.png)
+![image](https://github.com/MahekRohitGor/21BCP104_CloudIA2/assets/101034649/72aa425f-a5c0-4f92-acf4-a909c57b89ba)
